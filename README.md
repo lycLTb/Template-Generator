@@ -13,3 +13,9 @@ ACM-Template-Generator 是一个lyc瞎写的，用于快速生成HTML格式的AC
 运行 `main.exe`
 
 如果你不太理解，可以下载 `example` 来观察一个实例。
+
+### Features
+
+- 支持代码高亮
+- 索引目录
+- 一键复制
