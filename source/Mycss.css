@@ -1,5 +1,8 @@
-body,pre {margin: 10px 300px 100px 300px;}
+body {margin: 10px 300px 100px 300px;}
 .top {margin-left: 95%;}
+a:link {text-decoration: none;}
+a:hover {text-decoration: underline;}
+a:visited {color: blue;}
 h2,h3 {text-align: center;}
 .copy-button{
 	position: absolute;

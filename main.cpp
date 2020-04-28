@@ -76,8 +76,6 @@ int main()
 	putfile("<style>","</style>","source\\Mycss.css",false);
 	putfile("<style>","</style>","source\\prism.css",false);
 	cout<<strs::start_to_body<<endl;
-	// cout<<"<p>qwq</p>";
-	cout<<strs::end<<endl;
 	putfile("<script>","</script>","source\\copy.js",false);
 	filenames=getfilenames(files);
 
@@ -86,5 +84,6 @@ int main()
 	cout<<"<br>"<<endl;
 
 	for (int i=0;i<(int)files.size();i++) g_code(i);
+	cout<<strs::end<<endl;
 	return 0;
 }
