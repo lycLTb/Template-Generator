@@ -19,3 +19,7 @@ ACM-Template-Generator 是一个lyc瞎写的，用于快速生成HTML格式的AC
 - 支持代码高亮
 - 索引目录
 - 一键复制
+
+### 致谢
+
+复制代码功能使用了 [给 LibreOJ 添加复制按钮的用户脚本](<https://github.com/woshiluo/syzoj-copy-button>) 的代码
