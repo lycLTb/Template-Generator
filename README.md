@@ -1,6 +1,6 @@
 ### 这是什么？
 
-ACM-Template-Generator 是一个lyc瞎写的，用于快速生成HTML格式的ACM模板的开源项目。
+Template-Generator 是一个lyc瞎写的，用于快速生成 HTML 格式的模板的开源项目。
 
 [效果预览](<https://lycltb.github.io/homepage/source/Templates.html>)
 
@@ -19,6 +19,7 @@ ACM-Template-Generator 是一个lyc瞎写的，用于快速生成HTML格式的AC
 - 支持代码高亮
 - 索引目录
 - 一键复制
+- 所有代码集成在一个 HTML 文件内
 
 ### 致谢
 
