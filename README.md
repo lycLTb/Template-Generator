@@ -2,7 +2,7 @@
 
 Template-Generator 是一个lyc瞎写的，用于快速生成 HTML 格式的模板的开源项目。
 
-[效果预览](<https://lycltb.github.io/homepage/source/Templates.html>)
+[Demo](<https://lycltb.github.io/homepage/source/Templates.html>)
 
 ### 如何使用？
 
