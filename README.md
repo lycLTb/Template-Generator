@@ -21,6 +21,10 @@ Template-Generator 是一个lyc瞎写的，用于快速生成 HTML 格式的模�
 - 一键复制
 - 所有代码集成在一个 HTML 文件内
 
+### 关于自定义代码高亮
+
+前往 [Prism.js](https://prismjs.com/) 官网下载对应主题的 `css` 和 `js` 文件，并用它们替换 `/source/` 中的 `prism.js` 和 `prism.css`
+
 ### 致谢
 
 复制代码功能使用了 [给 LibreOJ 添加复制按钮的用户脚本](<https://github.com/woshiluo/syzoj-copy-button>) 的代码
