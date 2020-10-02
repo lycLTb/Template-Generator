@@ -12,7 +12,7 @@ Template-Generator 是一个lyc瞎写的，用于快速生成 HTML 格式的模�
 
 运行 `main.exe`
 
-如果你不太理解，可以[下载 `release` ](<https://github.com/lycLTb/ACM-Template-Generator/releases/download/V1.0/ACM-Template-Generator-Release.zip>)来观察一个实例。
+如果你不太理解，可以[下载 `release` ](<https://github.com/lycLTb/ACM-Template-Generator/releases/download/V1.0/ACM-Template-Generator-Release.zip>)来观察一个实例。（Release 中的 `main.cpp` 不一定是最新的
 
 ### Features
 
