@@ -6,20 +6,20 @@ Template-Generator 是一个 lyc 瞎写的，用于快速生成 HTML 格式的�
 
 ### 如何使用？
 
-在文件夹下新建文件夹 `code`
+- 在文件夹下新建文件夹 `code`
 
-把你的模板放进这个文件夹，文件名需要保证是英文。
+- 把你的模板放进这个文件夹，文件名需要保证是英文。
 
-运行 `main.exe`
+- 运行 `main.exe`
 
-如果你不太理解，可以[下载 release](<https://github.com/lycLTb/ACM-Template-Generator/releases/download/V1.0/ACM-Template-Generator-Release.zip>)来观察一个实例。（Release 中的 `main.cpp` 不一定是最新的
+[下载 release](https://github.com/lycLTb/ACM-Template-Generator/releases/download/V1.0/ACM-Template-Generator-Release.zip) 来观察一个实例
 
 ### Features
 
-- 支持代码高亮
+- 代码高亮
 - 索引目录
 - 一键复制
-- 所有代码集成在一个 HTML 文件内
+- HTML 文件不引用外部资源
 
 ### 关于自定义代码高亮
 
